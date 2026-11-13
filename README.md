@@ -1,20 +1,21 @@
-# Google Clone
+# Google Analytics UI Recreation
 
-A frontend recreation of Google's search homepage, built to practise and improve my web development skills.
+An independent frontend recreation inspired by the Google Analytics website, built as a student project to practise and improve my web development skills.
 
 ## Features
-- Google-inspired search interface.
-- Clean and simple user interface.
+- Google Analytics-inspired interface.
+- Clean user interface.
+- Information sections and navigation.
 - Responsive layout.
-- Search input and interactive elements.
 
 ## Technologies Used
 - HTML5
 - CSS3
-- JavaScript
 
 ## Project Purpose
-This project was developed to strengthen my frontend development skills and gain practical experience in recreating popular website interfaces.
+
+This project was developed for educational purposes to strengthen my frontend development skills. It is not an official Google product and is not affiliated with or endorsed by Google.
 
 ## Author
+
 **MilkyRipper**
